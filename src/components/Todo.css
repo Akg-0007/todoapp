@@ -1,0 +1,19 @@
+body{
+  background:linear-gradient(#ffbcc0,#bef9e2,#8fddff);
+}
+.main-container {
+  max-width: 800px;
+  margin: auto;
+  padding-top: 50px;
+  
+}
+.op{
+  display: flex;
+}
+
+.todolist-header {
+  font-weight: bold;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
